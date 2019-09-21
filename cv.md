@@ -1,5 +1,5 @@
 # Hello my lovers, here you can find my resume
- Mr. Eldar Bildanau 24 y. o.
+Mr. Eldar Bildanau 24 y. o.
 ## **Contact info**
  * e-mail: *eldar.bildanov@gmail.com*
  * Phone numbers: 
@@ -7,34 +7,33 @@
     * *+48513122838 (Poland)*
   * What's Up: *+48513122838*
   * Viber: *+48513122838*
- ## **Summary** 
- All of us are living in the rapidly changing, developing world. This world has actually plenty of possibilities, so goals and wishes for everybody are to find their own way, but for me, this way has many directions. I mean that I would like to save my name in each areas in which I can, to remain "immortal". 
+## **Summary** 
+All of us are living in the rapidly changing, developing world. This world has actually plenty of possibilities, so goals and wishes for everybody are to find their own way, but for me, this way has many directions. I mean that I would like to save my name in each areas in which I can, to remain "immortal". 
  
- From childhood I used to like to discover the world. And now I've almost become a PhD in the theoretical physics. Furthermore, I like painting, cooking, playing several musicial instrument (piano, tuba, drums). 
+From childhood I used to like to discover the world. And now I've almost become a PhD in the theoretical physics. Furthermore, I like painting, cooking, playing several musicial instrument (piano, tuba, drums). 
  
- My potential will increase every year while the engine is buzzing in my a.. inside me. 
- ## **Skills**
- Skill | ranked
- --- | --- 
- Delphi / Pascal | 5 / 5
- C++ / C | 3 / 5
- Fortran | 3 / 5
- Python | 4 / 5
- Java | 2 / 5
- C# | 1 / 5
- PHP | 1 / 5
- JS | 1 / 5
- SQL | 3 / 5
- HTML / CSS | 3 / 5
- TEX / MD | 4 / 5
- Windows / Linux | 4 / 5
+My potential will increase every year while the engine is buzzing in my a.. inside me. 
+## **Skills**
+Skill | ranked
+--- | --- 
+Delphi / Pascal | 5 / 5
+C++ / C | 3 / 5
+Fortran | 3 / 5
+Python | 4 / 5
+Java | 2 / 5
+C# | 1 / 5
+PHP | 1 / 5
+JS | 1 / 5
+SQL | 3 / 5
+HTML / CSS | 3 / 5
+TEX / MD | 4 / 5
+Windows / Linux | 4 / 5
+5 / 5 corresponds to plenty of experience and knowledge, 1 / 5 - basic knowledge and practice.
+ 
+There are also skills in various scientific packages such as Wolphram Mathematica, MathCad, Mapple, Matlab, OriginLab and so on as well as Python libraries: SciPy, Matplotlib.pyplot, Numpy, related to my work in the scientific field. And some graphic editors Photoshop, Inkscape, CorelDraw.
+## **Code examples**
+For my job, I code in Pascal, C, Fortran due to huge amount of statistical data. Actually, I create a model and run some simulations, so I suppose those codes are not convinient for this CV. But anyway, I'll add the latest Python script for processing of my data files.
 
- 5 / 5 corresponds to plenty of experience and knowledge, 1 / 5 - basic knowledge and practice.
- 
- There are also skills in various scientific packages such as Wolphram Mathematica, MathCad, Mapple, Matlab, OriginLab and so on as well as Python libraries: SciPy, Matplotlib.pyplot, Numpy, related to my work in the scientific field. And some graphic editors Photoshop, Inkscape, CorelDraw.
- ## **Code examples**
- For my job, I code in Pascal, C, Fortran due to huge amount of statistical data. Actually, I create a model and run some simulations, so I suppose those codes are not convinient for this CV. But anyway, I'll add the latest Python script for processing of my data files.
- 
     #import requirement libraries
     import os
     import numpy as np
