@@ -7,42 +7,32 @@
     * *+48513122838 (Poland)*
   * What's Up: *+48513122838*
   * Viber: *+48513122838*
-  
-  
- ## **Summary**
- 
- 
+ ## **Summary** 
  All of us are living in the rapidly changing, developing world. This world has actually plenty of possibilities, so goals and wishes for everybody are to find their own way, but for me, this way has many directions. I mean that I would like to save my name in each areas in which I can, to remain "immortal". 
  
  From childhood I used to like to discover the world. And now I've almost become a PhD in the theoretical physics. Furthermore, I like painting, cooking, playing several musicial instrument (piano, tuba, drums). 
  
  My potential will increase every year while the engine is buzzing in my a.. inside me. 
- 
- 
  ## **Skills**
- 
- 
  Skill | ranked
  --- | --- 
- Delphi / Pascal | :black_large_square: :black_large_square: :black_large_square: :black_large_square: :black_large_square:
- C++ / C | :black_large_square: :black_large_square: :black_large_square: :white_large_square: :white_large_square:
- Fortran | :black_large_square: :black_large_square: :black_large_square: :white_large_square: :white_large_square:
- Python | :black_large_square: :black_large_square: :black_large_square: :black_large_square: :white_large_square:
- Java | :black_large_square: :black_large_square: :white_large_square: :white_large_square: :white_large_square:
- C# | :black_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square:
- PHP | :black_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square:
- JS | :black_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square:
- SQL | :black_large_square: :black_large_square: :black_large_square: :white_large_square: :white_large_square:
- HTML / CSS | :black_large_square: :black_large_square: :black_large_square: :white_large_square: :white_large_square:
- TEX / MD | :black_large_square: :black_large_square: :black_large_square: :black_large_square: :white_large_square:
- Windows / Linux | :black_large_square: :black_large_square: :black_large_square: :black_large_square: :white_large_square:
+ Delphi / Pascal | 5 / 5
+ C++ / C | 3 / 5
+ Fortran | 3 / 5
+ Python | 4 / 5
+ Java | 2 / 5
+ C# | 1 / 5
+ PHP | 1 / 5
+ JS | 1 / 5
+ SQL | 3 / 5
+ HTML / CSS | 3 / 5
+ TEX / MD | 4 / 5
+ Windows / Linux | 4 / 5
 
- :black_large_square: :black_large_square: :black_large_square: :black_large_square: :black_large_square: corresponds to plenty of experience and knowledge, :black_large_square: :white_large_square: :white_large_square: :white_large_square: :white_large_square: - basic knowledge and practice.
+ 5 / 5 corresponds to plenty of experience and knowledge, 1 / 5 - basic knowledge and practice.
  
  There are also skills in various scientific packages such as Wolphram Mathematica, MathCad, Mapple, Matlab, OriginLab and so on as well as Python libraries: SciPy, Matplotlib.pyplot, Numpy, related to my work in the scientific field. And some graphic editors Photoshop, Inkscape, CorelDraw.
- 
  ## **Code examples**
- 
  For my job, I code in Pascal, C, Fortran due to huge amount of statistical data. Actually, I create a model and run some simulations, so I suppose those codes are not convinient for this CV. But anyway, I'll add the latest Python script for processing of my data files.
  
     #import requirement libraries
@@ -88,8 +78,6 @@
     fig = plt.figure(figsize=(8.5,6), dpi=300)
     ax = fig.add_axes([0.12, 0.14, 0.88, 0.86])
     ax.scatter(mu, time)
-    ax.set_ylim(0,10)
-    
+    ax.set_ylim(0,10)   
 ## **Experience**
-
 All my programming experience is based on writing programs for simulating physicochemical systems, which I study as part of working in the European Horizon program and writing my PhD thesis. Published work results can be found [here](https://scholar.google.com/citations?user=Ve8e6CIAAAAJ&hl=ru) .
