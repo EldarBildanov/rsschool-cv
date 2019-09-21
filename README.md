@@ -1,2 +1,2 @@
 # rsschool-cv
-http://eldarbildanov.github.io/rsschool-cv/cv.md
+http://eldarbildanov.github.io/rsschool-cv/cv
