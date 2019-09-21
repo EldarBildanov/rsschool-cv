@@ -1,12 +1,12 @@
 # Hello my lovers, here you can find my resume
 Mr. Eldar Bildanau 24 y. o.
 ## **Contact info**
- * e-mail: *eldar.bildanov@gmail.com*
- * Phone numbers: 
-    * *+375445946779 (Belarus)*
-    * *+48513122838 (Poland)*
- * What's Up: *+48513122838*
- * Viber: *+48513122838*
+* e-mail: *eldar.bildanov@gmail.com*
+* Phone numbers: 
+   * *+375445946779 (Belarus)*
+   * *+48513122838 (Poland)*
+* What's Up: *+48513122838*
+* Viber: *+48513122838*
   
 ## **Summary** 
 All of us are living in the rapidly changing, developing world. This world has actually plenty of possibilities, so goals and wishes for everybody are to find their own way, but for me, this way has many directions. I mean that I would like to save my name in each areas in which I can, to remain "immortal". 
@@ -81,5 +81,13 @@ For my job, I code in Pascal, C, Fortran due to huge amount of statistical data.
     ax = fig.add_axes([0.12, 0.14, 0.88, 0.86])
     ax.scatter(mu, time)
     ax.set_ylim(0,10)   
+    
 ## **Experience**
-All my programming experience is based on writing programs for simulating physicochemical systems, which I study as part of working in the European Horizon program and writing my PhD thesis. Published work results can be found [here](https://scholar.google.com/citations?user=Ve8e6CIAAAAJ&hl=ru) .
+All my programming experience is based on writing programs for simulating physicochemical systems, which I study as part of working in the European Horizon program and writing my PhD thesis. Published work results can be found [here](https://scholar.google.com/citations?user=Ve8e6CIAAAAJ&hl=ru).
+
+## **Education**
+Physicist, master of technical science, PhD student (theoretical physics). 
+
+## **English**
+Intermediate (B1). I have been studying it since 2k17. Now I am a secondment staff participant of European project where I have to communicate between my collegues only i English.
+
