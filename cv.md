@@ -16,6 +16,7 @@ From childhood I used to like to discover the world. And now I've almost become 
 My potential will increase every year while the engine is buzzing in my a.. inside me. 
 
 ## **Skills**
+
 Skill | ranked
 --- | --- 
 Delphi / Pascal | 5 / 5
